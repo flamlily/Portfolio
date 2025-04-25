@@ -21,7 +21,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://medium.com/@hackflamelily/soc-automation-lab-using-shuffle-9aca2f14e020">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://medium.com/@hackflamelily/soc-automation-lab-using-shuffle-9aca2f14e020">SOC Automation Lab|
-| Incident Response Planning and Execution      | <a href="https://google.com](https://medium.com/@hackflamelily/soc-automation-lab-using-shuffle-9aca2f14e020">SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://medium.com/@hackflamelily/soc-automation-lab-using-shuffle-9aca2f14e020">SOC Automation Lab|
 | Case Management with TheHive                  | <a href="https://medium.com/@hackflamelily/soc-automation-lab-using-shuffle-9aca2f14e020">SOC Automation Lab|
 
 ## Tools
