@@ -11,7 +11,7 @@
 - 📚 Always learning—working on security labs, simulations, and automation workflows.
 - 🌱 Projects include NSM setups, attack simulations, and automated IR.
 
-## Objectiv
+## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -54,6 +54,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+### Projects
+ ## 🔐 SOC Automation Using Shuffle
+   Configured **Wazuh**, **Sysmon**, and **TheHive** for centralized event monitoring and case management. Built an automated SOAR workflow using **Shuffle** to extract file hashes, perform VirusTotal reputation checks, trigger alerts in TheHive, and notify analysts via email—streamlining rapid threat detection and response.
+   📘 [Read Blog](https://medium.com/@hackflamelily/soc-automation-lab-using-shuffle-9aca2f14e020)
+
+
+ ## ⚙️ SOC EDR Project Using LimaCharlie and Tines
+   Integrated **LimaCharlie** with **Tines** for automated EDR-SOAR operations. Developed real-time detection and incident response workflows, including isolating compromised machines, generating alert notifications via **Slack/email**, and creating interactive analyst prompts for decision-making.
+   📘 [Read Blog](https://medium.com/@hackflamelily/soar-edr-project-eb9017ed81d6)
+
+ 
+  ## 🛡️ Pi-hole Network Setup
+   Installed and configured Pi-hole to block ads and **DNS-based threats** across a home network. Enhanced **privacy** and **security** with custom filtering rules, reducing exposure to **malicious domains**and unwanted web content.
+   📘 [Read Blog](https://medium.com/@hackflamelily/install-pi-hole-in-your-home-network-for-privacy-and-ad-blocking-84c2fedf2b7c)
+
+
+  ## ⚙️ Active Directory Project with Splunk
+   Deployed Active Directory on Windows Server and configured **Splunk** with Sysmon to analyze security events. Simulated RDP brute-force attacks and **Atomic Red Team** techniques to evaluate detection efficacy, with detailed log analysis for threat attribution and response tuning.
+   📘 [Read Blog](https://medium.com/@hackflamelily/active-directory-project-08fb233425b2)
